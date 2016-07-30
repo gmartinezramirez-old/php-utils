@@ -2,7 +2,7 @@
 <h1 align="center">PHP Utils</h1>
 
 <!-- In this section add a brief description of the proyect, add (WIP) if is a work in progress -->
-<div align="center">:elephant: Utilty scripts for PHP..</div>
+<div align="center">:elephant: Utilty scripts for PHP.</div>
 <br />
 <div align="center">
 </div>
